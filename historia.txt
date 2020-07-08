@@ -3,8 +3,12 @@
 Tiene 21 años y Nacio en Venezuela,
 En la Ciudad de Valencia
 
+<<<<<<< HEAD
 y Hoy se Hablara de su vida y obra maestra 
 
 En camara se ve bien pero en persona se ve mejor
 
 hoy es estudiante de Ing. Electronica
+=======
+Mañana hablaremos de su historia
+>>>>>>> cabecera
